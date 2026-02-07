@@ -35,7 +35,7 @@ export default function App() {
   return (
     <div className="app">
       <div className="header">
-        <h1>Weather App</h1>
+        <h1>Weather App By Ritik Kumar</h1>
       </div>
 
       <div className="section">
@@ -61,7 +61,7 @@ export default function App() {
       </div>
 
       <div className="footer">
-        <p>Simple Weather App</p>
+        <p>Simple Weather App-2500032702</p>
       </div>
     </div>
   );
